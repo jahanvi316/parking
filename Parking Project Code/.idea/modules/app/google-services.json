@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "352929195822",
+    "firebase_url": "https://parking-bdd65.firebaseio.com",
+    "project_id": "parking-bdd65",
+    "storage_bucket": "parking-bdd65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352929195822:android:7fbb8e0cb05daab7a67cbf",
+        "android_client_info": {
+          "package_name": "com.example.parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352929195822-ke5btblouh9gvgc4r023456jatg844pi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parking",
+            "certificate_hash": "498ffd55029794a1dfbac7f040b2f1f3c152908f"
+          }
+        },
+        {
+          "client_id": "352929195822-mh7frgi2c25chk4lmk56dnt924p678ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOoCPOc3J5uzjbnoobQc29daxDiu-AhFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352929195822-mh7frgi2c25chk4lmk56dnt924p678ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
